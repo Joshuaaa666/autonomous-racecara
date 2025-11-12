@@ -46,3 +46,12 @@ Thumbs.db
 
 # logs
 *.log
+# local user files (do not commit)
+.Xauthority
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+.viminfo
+.wget-hsts
