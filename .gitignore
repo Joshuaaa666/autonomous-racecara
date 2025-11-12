@@ -1,10 +1,10 @@
-# colcon / catkin build outputs
-/build/
-/install/
-/devel/
-/log/
-/local/
-/_colcon_install_layout
+# ignore any build/install/log folders anywhere in tree
+build/
+install/
+devel/
+log/
+local/
+_colcon_install_layout
 /.colcon_install_layout
 /.built_by
 COLCON_IGNORE
